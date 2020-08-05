@@ -1,0 +1,16 @@
+{
+  "name": "flex-css",
+  "version": "1.0.0",
+  "description": "A CSS Flex Library That Don't Sucks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "keywords": ["css-grid", "css grid", "grid"],
+  "author": "MIT",
+  "license": "ISC",
+  "devDependencies": {
+    "csso": "^4.0.3"
+  }
+}
