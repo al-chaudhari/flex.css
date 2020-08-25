@@ -1,0 +1,29 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+.blue-box {
+    background-color: #cecece; 
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 2px;
+    text-align: center;
+
+}
+.below-mr {
+    margin-bottom: 10px;
+}
+pre code {
+    margin-left: 20px;
+}
+
+a {
+    font-style: none;
+    text-decoration: underline;
+    color: black;
+}
