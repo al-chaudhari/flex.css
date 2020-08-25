@@ -1,7 +1,7 @@
 {
-  "name": "flex-css",
+  "name": "flexz",
   "version": "1.0.0",
-  "description": "A CSS Flex Library That Don't Sucks",
+  "description": "A CSS Flex Library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
